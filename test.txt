@@ -1,1 +1,1 @@
-|*schulist*^
+|*schulist*^$empty
