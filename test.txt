@@ -1,2 +1,2 @@
-|*rezka*^
+||*rezka*$empty
 |*schulist*^
