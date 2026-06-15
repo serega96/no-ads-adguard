@@ -1,2 +1,2 @@
 |*schulist*^$empty
-static.cloudflareinsights.com
+||t.me
