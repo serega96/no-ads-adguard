@@ -1,3 +1,7 @@
 |*schulist*^$empty
 ||t.me
 ||ufouxbwn.com
+||onelink.me
+||*.pro
+||amd-cdn-1.*.com
+||traffer.*
