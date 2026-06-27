@@ -2,6 +2,6 @@
 ||t.me
 ||ufouxbwn.com
 ||onelink.me
-||*.pro
+||*.pro^
 ||amd-cdn-1.*.com
 ||traffer.*
